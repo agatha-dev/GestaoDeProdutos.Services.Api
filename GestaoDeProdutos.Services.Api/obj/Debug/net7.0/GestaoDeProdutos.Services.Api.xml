@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestaoDeProdutos.Services.Api</name>
+    </assembly>
+    <members>
+        <member name="T:GestaoDeProdutos.Services.Api.Services.SwaggerDocExtesion">
+            <summary>
+            Classe para extensão para adicionarmos no projeto as config de geração da documentação7
+            do Swagger (openapi)
+            </summary>
+        </member>
+        <member name="M:GestaoDeProdutos.Services.Api.Services.SwaggerDocExtesion.AddSwaggerDoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            Personalizando o conteudo da documentação gerada
+        </member>
+        <member name="M:GestaoDeProdutos.Services.Api.Services.SwaggerDocExtesion.UseSwaggerDoc(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            Configurando a execução da página de documentação
+        </member>
+    </members>
+</doc>

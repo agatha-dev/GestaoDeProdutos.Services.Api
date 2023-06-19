@@ -1,0 +1,12 @@
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.deps.json
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.dll
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\bin\Debug\net7.0\GestaoDeProdutos.Application.pdb
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.csproj.AssemblyReference.cache
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.AssemblyInfoInputs.cache
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.AssemblyInfo.cs
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.csproj.CoreCompileInputs.cache
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.dll
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\refint\GestaoDeProdutos.Application.dll
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\GestaoDeProdutos.Application.pdb
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Application\obj\Debug\net7.0\ref\GestaoDeProdutos.Application.dll

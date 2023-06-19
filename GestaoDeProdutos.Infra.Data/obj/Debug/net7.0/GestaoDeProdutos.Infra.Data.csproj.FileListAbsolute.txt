@@ -1,0 +1,5 @@
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.csproj.AssemblyReference.cache
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.AssemblyInfoInputs.cache
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.AssemblyInfo.cs
+C:\Dev\GestaoDeProdutos.Services.Api\GestaoDeProdutos.Infra.Data\obj\Debug\net7.0\GestaoDeProdutos.Infra.Data.csproj.CoreCompileInputs.cache

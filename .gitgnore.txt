@@ -1,0 +1,43 @@
+# Arquivos e diretórios específicos do Visual Studio
+.vs/
+/bin/
+/obj/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+
+# Dependências gerenciadas pelo NuGet
+## Diretório de pacotes do NuGet
+packages/
+
+# Logs e arquivos gerados
+*.log
+*.config
+*.csv
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos do ambiente de desenvolvimento
+/.idea/
+/.vscode/
+
+# Arquivos de usuário
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de publicação
+publish/
+
+# Arquivos de cache e backup
+*.bak
+*.cache
+*.bak
+
+# Outros arquivos gerados
+*.cache
+ClientApp/dist/
