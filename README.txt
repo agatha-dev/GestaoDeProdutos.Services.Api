@@ -5,7 +5,8 @@ Este é um projeto de API em .NET 7 para um sistema de estoque que gerencia prod
 ## Tecnologias utilizadas
 
 - .NET 7
-- MediatR
+- DDD
+- TDD
 - AutoMapper
 
 ## Arquitetura
