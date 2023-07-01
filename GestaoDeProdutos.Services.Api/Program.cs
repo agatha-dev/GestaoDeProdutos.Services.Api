@@ -1,4 +1,4 @@
-using GestaoDeProdutos.Services.Api.Services;
+using GestaoDeProdutos.Services.Api.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
